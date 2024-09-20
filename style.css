@@ -1,0 +1,30 @@
+@font-face {
+    font-family: first font;
+    src: url("fonts/JacquesFrancoisShadow-Regular.ttf");
+}
+
+h3 {
+    font-family: first font;
+    font-weight: 400;
+    size: 20px;
+    line-height: 26.38px;
+}
+
+@font-face {
+    font-family: second font;
+    src: url("fonts/OriginalSurfer-Regular.ttf");
+
+}
+
+.p {
+    font-family: second font;
+}
+
+@font-face {
+    font-family: third font;
+    src: url("fonts/Play-Bold.ttf");
+}
+
+.ptwo {
+    font-family: third font;
+}
